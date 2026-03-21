@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(/Users/mmk/development/flutter/bin/flutter create:*)"
+    ]
+  }
+}
